@@ -8,8 +8,8 @@
 ### LinkedIn Posts
 
 #### 1. 2 Days Free Technical Workshop on Artificial Intelligence
-[View on GitHub](https://www.linkedin.com/pulse/2-days-free-technical-workshop-artificial-janardan-chavan)
+[View on LinkedIn](https://www.linkedin.com/pulse/2-days-free-technical-workshop-artificial-janardan-chavan)
 
 #### 2. Docker project with MySQL and WordPress
-[View on GitHub](https://www.linkedin.com/pulse/docker-project-mysql-wordpress-janardan-chavan/)
+[View on LinkedIn](https://www.linkedin.com/pulse/docker-project-mysql-wordpress-janardan-chavan/)
 
