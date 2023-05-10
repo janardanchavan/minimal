@@ -1,8 +1,8 @@
-# Project 1
+# Project 1 : Docker project with MySQL and WordPress
 
-[Docker project with MySQL and WordPress](https://www.linkedin.com/pulse/docker-project-mysql-wordpress-janardan-chavan/) 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://www.linkedin.com/pulse/docker-project-mysql-wordpress-janardan-chavan/)
 
-# Project 2
+# Project 2 : 2 Days Free Technical Workshop on Artificial Intelligence
 
-[2 Days Free Technical Workshop on Artificial Intelligence](https://www.linkedin.com/pulse/2-days-free-technical-workshop-artificial-janardan-chavan)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://www.linkedin.com/pulse/2-days-free-technical-workshop-artificial-janardan-chavan)
 
